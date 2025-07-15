@@ -29,7 +29,7 @@
 
 # :information_desk_person: Introduction
 
-Thank you for your interest in our work **LoTNext**, published in the paper *[Taming the Long Tail in Human Mobility Prediction](https://arxiv.org/abs/2402.14744)*. 
+Thank you for your interest in our work **LoTNext**, published in the paper *[Taming the Long Tail in Human Mobility Prediction](https://arxiv.org/abs/2410.14970)*. 
 
 ![image](./data/LoTNext.png)
 
